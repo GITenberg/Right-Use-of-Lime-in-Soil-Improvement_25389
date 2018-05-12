@@ -1,0 +1,27 @@
+_repo: Right-Use-of-Lime-in-Soil-Improvement_25389
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Agee, Alva
+    birthdate: 1858
+    deathdate: 1943
+    gutenberg_agent_id: '25988'
+    url: http://www.gutenberg.org/2009/agents/25988
+description: ''
+gutenberg_issued: '2008-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25389'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'S'
+- !lcsh 'Lime'
+- !lcsh 'Liming of soils'
+title: Right Use of Lime in Soil Improvement
+url: http://www.gutenberg.org/ebooks/25389
